@@ -13,7 +13,7 @@
 
 ## About The Project
 
-Tek aygıt üzerinden çevrimdışı oynanan 2 kişilik X-O-X Oyunudur.
+Tek aygıt üzerinden çevrimdışı oynanan 2 kişilik X-O-X Oyunudur. Proje henüz tamamlanmamıştır.
 
 * Oyuncular oyunu başlatır ve kendi aralarında sıra belirler.
 * Oyuna ilk başlayan oyuncu X, diğer oyuncu ise O harfini yerleştirir.
