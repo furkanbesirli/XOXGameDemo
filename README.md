@@ -24,7 +24,7 @@ Oyunculardan herhangi biri oyunu kazanırsa ekrana o oyuncunun kazandığını b
 
 ![bos](https://github.com/furkanbesirli/XOXGameDemo/assets/79379758/7554325d-aa36-45e1-a8fb-911ba5e9ec6d)
 ![win](https://github.com/furkanbesirli/XOXGameDemo/assets/79379758/97642ade-3659-4154-a89d-965421680d42)
-![Screen Shot]("C:\Users\frknnn\Desktop\son.jpeg")
+![son](https://github.com/furkanbesirli/XOXGameDemo/assets/79379758/33817f70-024a-4ef6-8842-f0da30a6b0cc)
 
 ## Built With
 
