@@ -22,7 +22,7 @@ Tek aygıt üzerinden çevrimdışı oynanan 2 kişilik X-O-X Oyunudur.
 
 Oyunculardan herhangi biri oyunu kazanırsa ekrana o oyuncunun kazandığını bildiren bir bildirim düşer. Aynı zamanda yeni oyuna geçmek veya oyunu sonlandırmak için 2 buton gözükür. Oyuncular devam etmek isterlerse YES butonuna, oyunu bitirmek isterler ise NO butonuna basacaktır. Oyun berabere biterse otomatik olarak sıfırlanır.
 
-![Screen Shot]("C:\Users\frknnn\Desktop\bos.jpeg")
+![bos](https://github.com/furkanbesirli/XOXGameDemo/assets/79379758/7554325d-aa36-45e1-a8fb-911ba5e9ec6d)
 ![Screen Shot]("C:\Users\frknnn\Desktop\win.jpeg")
 ![Screen Shot]("C:\Users\frknnn\Desktop\son.jpeg")
 
